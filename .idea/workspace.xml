@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a61c014a-ebf2-4ec8-be73-e112aa231494" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lyy/controller/BillDetailController.java" afterPath="$PROJECT_DIR$/src/main/java/com/lyy/controller/BillDetailController.java" />
-    </list>
+    <list default="true" id="a61c014a-ebf2-4ec8-be73-e112aa231494" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="F:/selenium/Test/target/" />
@@ -25,8 +22,8 @@
       <file leaf-file-name="BillDetailController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lyy/controller/BillDetailController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="208">
+              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -542,12 +539,12 @@
       <workItem from="1521725992575" duration="8634000" />
       <workItem from="1521911092502" duration="4000" />
       <workItem from="1522983329672" duration="3613000" />
-      <workItem from="1522999664140" duration="7176000" />
+      <workItem from="1522999664140" duration="7295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98226000" />
+    <option name="totallyTimeSpent" value="98345000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -946,8 +943,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lyy/controller/BillDetailController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="208">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
           <folding />
         </state>
       </provider>
