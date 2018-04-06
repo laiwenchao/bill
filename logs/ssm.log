@@ -1,0 +1,46 @@
+[INFO] [2018-03-17 11:19:15][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7c55d3df: startup date [Sat Mar 17 11:19:15 CST 2018]; root of context hierarchy
+[INFO] [2018-03-17 11:19:15][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-03-17 11:19:16][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2018-03-17 11:19:17][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [db.properties]
+[INFO] [2018-03-17 11:19:19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2018-03-17 11:20:39][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1b91ce2a: startup date [Sat Mar 17 11:20:39 CST 2018]; root of context hierarchy
+[INFO] [2018-03-17 11:20:39][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-03-17 11:20:40][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2018-03-17 11:20:40][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [db.properties]
+[INFO] [2018-03-17 11:20:42][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2018-03-17 11:21:42][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7d365e01: startup date [Sat Mar 17 11:21:42 CST 2018]; root of context hierarchy
+[INFO] [2018-03-17 11:21:42][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-03-17 11:21:43][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2018-03-17 11:21:43][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [db.properties]
+[INFO] [2018-03-17 11:21:45][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2018-03-17 14:48:06][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@277f4790: startup date [Sat Mar 17 14:48:06 CST 2018]; root of context hierarchy
+[INFO] [2018-03-17 14:48:06][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-03-17 14:48:07][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2018-03-17 14:48:07][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [db.properties]
+[INFO] [2018-03-17 14:48:09][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2018-03-17 14:49:50][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6724e231: startup date [Sat Mar 17 14:49:50 CST 2018]; root of context hierarchy
+[INFO] [2018-03-17 14:49:50][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-03-17 14:49:51][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2018-03-17 14:49:51][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [db.properties]
+[INFO] [2018-03-17 14:49:54][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2018-03-17 14:51:25][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@267e33de: startup date [Sat Mar 17 14:51:25 CST 2018]; root of context hierarchy
+[INFO] [2018-03-17 14:51:25][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-03-17 14:51:26][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2018-03-17 14:51:26][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [db.properties]
+[INFO] [2018-03-17 14:51:28][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2018-03-17 14:51:28][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[INFO] [2018-03-17 14:52:19][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6724e231: startup date [Sat Mar 17 14:52:19 CST 2018]; root of context hierarchy
+[INFO] [2018-03-17 14:52:20][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-03-17 14:52:20][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2018-03-17 14:52:20][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [db.properties]
+[INFO] [2018-03-17 14:52:22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2018-03-17 14:56:55][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@15335332: startup date [Sat Mar 17 14:56:55 CST 2018]; root of context hierarchy
+[INFO] [2018-03-17 14:56:55][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-03-17 14:56:55][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2018-03-17 14:56:56][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [db.properties]
+[INFO] [2018-03-17 14:56:58][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2018-03-17 15:06:08][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@277f4790: startup date [Sat Mar 17 15:06:08 CST 2018]; root of context hierarchy
+[INFO] [2018-03-17 15:06:08][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-03-17 15:06:08][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+[INFO] [2018-03-17 15:06:09][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [db.properties]
+[INFO] [2018-03-17 15:06:11][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
