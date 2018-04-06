@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--命名空间应该是对应接口的包名+接口名 -->
+<mapper namespace="com.lyy.dao.BillDetailDao">
+    <!--获得商品信息并分页 -->
+    <insert id="setBillDetail" parameterType="com.lyy.domain.BillDetail">
+        INSERT INTO bill_detail(user_id,product_name,description,pay_account,custom_time)
+        VALUES (#{userId},#{productName},#{description},#{payAccount},#{customTime})
+    </insert>
+    <select id="getBillDetailByUserId" resultType="com.lyy.domain.BillDetail">
+        SELECT id AS Id,user_id AS userId ,product_name AS productName ,
+        description AS description,pay_account AS payAccount,custom_time AS customTime
+         FROM bill_detail WHERE user_id=#{userId}
+    </select>
+    <select id="getBillDetailByUserIdAndTimeArea" resultType="com.lyy.domain.BillDetail">
+        SELECT user_id AS userId,
+        pay_account AS payAccount,
+        custom_time AS customTime
+        FROM bill_detail
+         WHERE user_id=#{userId}
+         AND custom_time BETWEEN #{startTime} AND #{endTime}
+
+
+
+
+</select>
+
+</mapper>
