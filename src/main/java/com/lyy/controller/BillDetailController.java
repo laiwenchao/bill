@@ -17,7 +17,9 @@ import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 import java.sql.Timestamp;
 import java.util.List;
-
+/*
+* @author:luyunyun
+* */
 @Controller
 @RequestMapping(value = "/billdetail")
 public class BillDetailController {

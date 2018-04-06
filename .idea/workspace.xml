@@ -7,95 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a61c014a-ebf2-4ec8-be73-e112aa231494" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MyBill_war.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MyBill_war_exploded.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_0_2_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_41.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_2_b01.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_35.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_logback_extensions_logback_ext_spring_0_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/MyBill.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/logs/ssm.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lyy/controller/BillDetailController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lyy/controller/UserController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lyy/dao/BillDetailDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lyy/dao/UserDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lyy/domain/BillDetail.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lyy/domain/DealBillDetail.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lyy/domain/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lyy/service/BillDetailService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lyy/service/UserService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lyy/service/impl/BillDetailServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lyy/service/impl/UserServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/lyy/utils/Md5Utils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mapper/billdetailmapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mapper/usermapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/jsp/billdetail.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/jsp/insertsunccess.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/jsp/login.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/AUTHORS.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/external/jquery/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/images/ui-icons_444444_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/images/ui-icons_555555_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/images/ui-icons_777620_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/images/ui-icons_777777_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/images/ui-icons_cc0000_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/images/ui-icons_ffffff_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/jquery-ui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/jquery-ui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/jquery-ui.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/jquery-ui.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/jquery-ui.structure.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/jquery-ui.structure.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/jquery-ui.theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/jquery-ui.theme.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/static/jquery-ui-1.12.1/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webapp/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lyy/controller/BillDetailController.java" afterPath="$PROJECT_DIR$/src/main/java/com/lyy/controller/BillDetailController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -113,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lyy/controller/BillDetailController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="104">
-              <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -264,7 +177,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="432" />
     <option name="y" value="115" />
     <option name="width" value="780" />
@@ -629,15 +542,15 @@
       <workItem from="1521725992575" duration="8634000" />
       <workItem from="1521911092502" duration="4000" />
       <workItem from="1522983329672" duration="3613000" />
-      <workItem from="1522999664140" duration="5909000" />
+      <workItem from="1522999664140" duration="7176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96959000" />
+    <option name="totallyTimeSpent" value="98226000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -645,7 +558,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3753943" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3753943" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16764276" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -654,7 +567,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2774524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2774524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1034,7 +947,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lyy/controller/BillDetailController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
           <folding />
         </state>
       </provider>
